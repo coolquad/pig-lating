@@ -1,0 +1,30 @@
+
+.button {
+  border-radius: 10px;
+}
+.button.button-primary {
+  background-color: #56A7B2;
+  border-color: #56A7B2;
+}
+textarea {
+  color: black;
+  min-height: 200px;
+}
+
+.values {
+  background-color: green;
+  background-size: cover;
+  color: #fff;
+  padding-bottom: 5rem;
+}
+.value-multiplier {
+  margin-bottom: .5rem;
+  color: #11DFC7;
+}
+.value-heading {
+  margin-bottom: .3rem;
+}
+.value-description {
+  opacity: .8;
+  font-weight: 300;
+}
